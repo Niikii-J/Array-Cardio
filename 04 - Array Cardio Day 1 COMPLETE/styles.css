@@ -1,0 +1,28 @@
+html {
+  background-image: linear-gradient(
+    -120deg,
+    rgb(71, 28, 110),
+    rgb(218, 134, 251)
+  );
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+button {
+  padding: 30px 75px;
+  color: white;
+  background-color: rgb(79, 43, 112);
+  border-radius: 50px;
+  border: 4px solid rgb(37, 3, 58);
+  box-shadow: 10px 10px 1px rgba(61, 4, 68, 0.383);
+  font-size: 25px;
+  font-style: oblique;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
